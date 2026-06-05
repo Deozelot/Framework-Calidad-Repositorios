@@ -1,0 +1,11 @@
+{
+  "name": "framework-calidad-marketplace",
+  "owner": { "name": "Diego Mahecha" },
+  "plugins": [
+    {
+      "name": "framework-calidad",
+      "source": "./plugins/framework-calidad",
+      "description": "Análisis de calidad de repositorios — 216 criterios, 23 dimensiones."
+    }
+  ]
+}
