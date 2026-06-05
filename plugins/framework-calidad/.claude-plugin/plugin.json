@@ -1,0 +1,6 @@
+{
+  "name": "framework-calidad",
+  "version": "1.0.0",
+  "description": "Análisis de calidad de repositorios — 216 criterios, 23 dimensiones. Modos: quick, full, security, deep-dive.",
+  "author": { "name": "Diego Mahecha" }
+}
