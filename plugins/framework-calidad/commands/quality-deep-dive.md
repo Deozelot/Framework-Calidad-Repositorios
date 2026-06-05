@@ -1,5 +1,5 @@
 ---
-description: Investigación a fondo de un hallazgo (§25 análisis + §26 arreglos). Args: [path] "descripción del hallazgo"
+description: 'Investigación a fondo de un hallazgo (§25 análisis + §26 arreglos). Args: [path] "descripción del hallazgo"'
 ---
 
 Ejecuta una investigación EN PROFUNDIDAD sobre un hallazgo específico.

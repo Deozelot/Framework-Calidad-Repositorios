@@ -1,5 +1,5 @@
 ---
-description: Análisis de seguridad enfocado (§06 seguridad + §13 dependencias). Arg opcional: [path]
+description: "Análisis de seguridad enfocado (§06 seguridad + §13 dependencias). Arg opcional: [path]"
 ---
 
 Ejecuta un análisis de SEGURIDAD enfocado.

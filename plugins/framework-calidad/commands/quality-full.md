@@ -1,5 +1,5 @@
 ---
-description: Análisis de calidad completo (216 criterios, 23 dimensiones) + score global. Args opcionales: [path] [tipo: critico|mvp|legacy]
+description: "Análisis de calidad completo (216 criterios, 23 dimensiones) + score global. Args opcionales: [path] [tipo: critico|mvp|legacy]"
 ---
 
 Ejecuta un análisis de calidad COMPLETO del repositorio.

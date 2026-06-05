@@ -1,5 +1,5 @@
 ---
-description: Análisis rápido por-PR (subset de alto impacto). Arg opcional: [path]
+description: "Análisis rápido por-PR (subset de alto impacto). Arg opcional: [path]"
 ---
 
 Ejecuta un análisis de calidad RÁPIDO, pensado para revisión por PR.
